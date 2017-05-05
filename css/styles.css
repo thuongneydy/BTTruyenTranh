@@ -88,7 +88,15 @@
     border-bottom: 2px solid #2980b9;
     margin-bottom: 10px;
 }
-
+#content-right ul li{
+    padding: 5px 15px;
+    border-bottom: 1px solid #ccc;
+}
+#content-right ul li a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
 #footer{
     background: #333;
     height: 100px;
